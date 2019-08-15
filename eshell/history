@@ -1,0 +1,25 @@
+ls
+cd teach/
+ls
+cd cpp
+ls
+./a.out
+d
+ls
+rm a.out
+cat 1848_1.cpp 
+g++ 1848_1.cpp 
+ls
+./a.out
+./a.out
+git status
+git diff
+git add .
+git status
+git commit -m '添加cpp 第20课， 不高兴的津津的教学意图和课后练习'
+git push
+git add .
+git commit -m 'updates'
+git push
+exit
+./a.out

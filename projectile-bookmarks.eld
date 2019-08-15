@@ -1,0 +1,1 @@
+("~/dev/vote/" "~/.emacs.d/" "~/personal/" "~/dev/jingqi-backend/" "~/Documents/鲸奇/curriculum/" "~/Documents/鲸奇/2019cybc/")

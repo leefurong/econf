@@ -1,0 +1,45 @@
+
+;; ----- smex-history -----
+(
+ eshell
+ compile
+ cider-jack-in
+ package-install
+ paredit-mode
+ list-packages
+ comment-line
+)
+
+;; ----- smex-data -----
+(
+ (make-directory . 3)
+ (mouse-major-mode-menu . 1)
+ (package-list-packages . 2)
+ (cider-jack-in . 30)
+ (package-install . 13)
+ (help . 1)
+ (term . 1)
+ (term-mode . 1)
+ (paredit-join-sexps . 1)
+ (occur . 1)
+ (imenu . 7)
+ (auto-complete . 3)
+ (auto-complete-mode . 2)
+ (delete-char . 1)
+ (search-forward . 1)
+ (2048-game . 1)
+ (move-line-up . 3)
+ (move-line-down . 1)
+ (list-packages . 2)
+ (org-indent-mode . 8)
+ (iimage-mode . 4)
+ (org-table-create . 1)
+ (org-table-align . 1)
+ (replace-regexp . 2)
+ (org-w3m-copy-for-org-mode . 1)
+ (describe-font . 2)
+ (comment-line . 3)
+ (eshell . 6)
+ (paredit-mode . 1)
+ (compile . 2)
+)

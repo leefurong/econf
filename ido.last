@@ -1,0 +1,156 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/lifurong/dev/jingqi-backend/resources/" . "html/")
+ ("/Users/lifurong/jq/curriculum/scratch/" . "scratch-high/")
+ ("/Users/lifurong/teach/python/" . "pygame/")
+ ("/Users/lifurong/jq/curriculum/" . "scratch/")
+ ("/Users/lifurong/jq/" . "curriculum/")
+ ("/Users/lifurong/Documents/鲸奇/" . "curriculum/")
+ ("/Users/lifurong/Documents/" . "鲸奇/")
+ ("/Users/" . "lifurong/")
+ ("/Users/lifurong/dev/jingqi-backend/src/clj/" . "jingqi_backend/")
+ ("/Users/lifurong/dev/jingqi-backend/src/" . "clj/")
+ ("/Users/lifurong/dev/jingqi-backend/" . "src/")
+ ("/Users/lifurong/teach/" . "cpp/")
+ ("/Users/lifurong/dev/clj/study/src/" . "study/")
+ ("/Users/lifurong/dev/clj/study/" . "src/")
+ ("/Users/lifurong/dev/clj/" . "study/")
+ ("/Users/lifurong/dev/" . "jingqi-backend/")
+ ("/Users/lifurong/.emacs.d/" . "customizations/")
+ ("/Users/lifurong/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/lifurong/"
+ "/Users/lifurong/.emacs.d/"
+ "/Users/lifurong/.emacs.d/customizations/"
+ "/Users/lifurong/dev/vote/src/vote/"
+ "/Users/lifurong/teach/cpp/"
+ "/Users/lifurong/dev/jingqi-backend/src/clj/jingqi_backend/"
+ "/Users/lifurong/dev/vote/"
+ "/Users/lifurong/dev/jingqi-backend/resources/html/"
+ "/Users/lifurong/jq/curriculum/scratch/scratch-high/"
+ "/Users/lifurong/dev/demo/src/main/demo/"
+ "/Users/lifurong/personal/"
+ "/Users/lifurong/teach/python/turtlegame/"
+ "/Users/lifurong/study/"
+ "/Users/lifurong/teach/noi/"
+ "/Users/lifurong/teach/python/pygame/"
+ "/Users/lifurong/jq/curriculum/scratch/"
+ "/Users/lifurong/jq/curriculum/scratch-mid/"
+ "/Users/lifurong/jq/curriculum/cpp/"
+ "/Users/lifurong/Documents/鲸奇/curriculum/"
+ "/Users/lifurong/dev/cpp/"
+ "/Users/lifurong/dev/clj/study/src/study/"
+ "/Users/lifurong/teach/c/"
+ "/Users/lifurong/dev/clj/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "foo.csv"
+ "init.el"
+ "move-lines.el"
+ "editing.el"
+ "practice.clj"
+ "L15_game_beg.cpp"
+ "foo.cpp"
+ "core.clj"
+ "project.clj"
+ "isbn.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/lifurong/.emacs.d/customizations/" (23893 44548 467668 939000) "move-lines.el" "elisp-editing.el" "setup-js.el" "navigation.el" "editing.el" "setup-clojure.el" "misc.el" "shell-integration.el" "font.el" "ui.el" "../" "./")
+
+ ("/Users/lifurong/.emacs.d/" (23893 44674 105406 880000) ".smex-items" "cider-history" "backups/" "themes/" "games/" ".git/" "elpa/" ".emacs" ".gitignore" ".recentf" "README.md" "init.el" "url/" "auto-save-list/" "projectile-bookmarks.eld" "customizations/" "eshell/" "ido.last" "ac-comphist.dat" "../" "./")
+
+ ("/Users/lifurong/dev/vote/" (23893 5815 601770 959000) "src/" "cal.clj" "doc/" ".gitignore" ".lein-repl-history" "README.md" ".nrepl-port" "resources/" ".hgignore" "target/" "take-practice.clj" "CHANGELOG.md" "test/" "LICENSE" "project.clj" "../" "./")
+
+ ("/Users/lifurong/teach/cpp/" (23891 58606 214892 949000) "snake_v2.cpp" ".vscode/" "tmp.cpp" "L14_xueyuanbei_1.cpp" "a.out" "L14_xueyuanbei_2.cpp" "storyteller.cpp" "8_13.cpp" "1848_1.cpp" "isbn.cpp" "1113.cpp" "game_beg_mac.cpp" "foo.cpp" "L15_game_beg.cpp" "../" "./")
+
+ ("/Users/lifurong/dev/vote/src/vote/" (23891 46606 356001 471000) "core.clj" "../" "./")
+
+ ("/Users/lifurong/dev/" (23891 45524 810717 183000) "jingqi-backend/" "vote/" "../" "./")
+
+ ("/Users/lifurong/dev/vote/src/" (23891 45524 815053 138000) "vote/" "../" "./")
+
+ ("/Users/lifurong/" (23890 7777 826355 381000) ".idea/" ".venple" ".v8flags.4.5.103.36.lifurong.json" "ethereumkey/" ".3T/" "le2abb66a0eae7ab258592b971cd08006-s8523378491701715041-m6aeac2b231982f81d6d9fb176b4e04c1.pdf" ".pkgs" ".viminfo" ".bash_history" ".mongorc.js" ".putty/" ".mume/" "q" "foo.py" "wget-log" ".gvimrc" ".gitconfig" ".cache/" ".python_history" "Downloads/" ".gem/" ".bash_profile" "jq/" ".m2/" ".mono/" ".ionic/" ".babel.json" ".swt/" ".mailcap" "Documents/" ".npm/" ".itmstransporter/" "teach/" ".zoomus/" "dev/" ".Trash" ".profile" ".dbshell" "Applications/" ".vimrc" "Movies/" ".ssh/" ".wepy_templates/" ".pip/" "mindful/" ".wapi/" ".zoomcnopener/" ".v8flags.6.1.534.48.lifurong.json" ".idlerc/" "knowledgesexport" ".keystore" ".anyproxy/" ".dropbox/" "Public/" "patch" ".babel-cache/" "智慧养老社区.sb3" ".lein/" "#.emacs#" ".bash_sessions/" ".cups/" "names.csv" ".android/" ".node_repl_history" ".emacs.d/" ".bash_profile.pysave" ".ShadowsocksX-NG/" ".IdentityService/" ".git-completion.bash" "tmp.org" "Parallels/" "WIFI_NO_NET_PROBE" "badjs.md" ".emulator_console_auth_token" ".oracle_jre_usage/" "budha/" "xinxin/" "multiple-device-upload-ios.txt" ".lesshst" "HBuilderProjects/" ".v8flags.5.1.281.103.lifurong.json" "ahac/" ".jshintrc" ".v8flags.6.1.534.48.f08a672755a8de753d87980ce3a0028b.json" ".matplotlib/" ".npmrc" "Library/" "Desktop/" "root@blifespace.cn" ".v8flags.6.2.414.54.lifurong.json" ".rnd" "important files/" ".atom/" ".thinkbuzan/" ".pylint.d/" "Pictures/" "Projects/" ".local/" ".anyproxy_certs/" ".templateengine/" ".mime.types" ".vue-templates/" ".ServiceHub/" "gql/" ".vnc/" ".subversion/" ".cordova/" ".sogouinput/" "venple.err" ".meteorsession" ".CFUserTextEncoding" ".yarnrc" "VirtualBox VMs/" "get-pip.py" "example.csv" ".DS_Store" ".vim/" "study/" ".node-gyp/" ".gemrc" ".wns/" ".v8flags.3.14.5.9.lifurong.json" "foo.csv" "Music/" "personal/" ".v8flags.5.1.281.103.f08a672755a8de753d87980ce3a0028b.json" ".config/" ".eclipse/" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/resources/html/" (23890 49681 870428 963000) "error.html" "base.html" "about.html" "home.html" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/resources/" (23890 49681 870668 495000) "public/" "docs/" "html/" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/" (23890 50131 162099 723000) "src/" ".git/" "Procfile" "Capstanfile" "log/" ".gitignore" ".lein-repl-history" "env/" "README.md" "resources/" "target/" "Dockerfile" "test/" "project.clj" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/src/" (23890 49681 871851 650000) "clj/" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/src/clj/" (23890 49681 871904 120000) "jingqi_backend/" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/src/clj/jingqi_backend/" (23890 49681 873399 450000) "config.clj" "routes/" "handler.clj" "core.clj" "middleware.clj" "nrepl.clj" "middleware/" "layout.clj" "../" "./")
+
+ ("/Users/lifurong/dev/jingqi-backend/src/clj/jingqi_backend/routes/" (23890 49681 873457 487000) "home.clj" "../" "./")
+
+ ("/Users/lifurong/jq/curriculum/scratch/scratch-high/" (23889 4975 294737 376000) "high.org" "../" "./")
+
+ ("/Users/lifurong/personal/" (23890 6792 301344 34000) "jiagui.org" ".git/" "diary.org" "archetecture.org" "tasks.org" "notes.org" "archetecture.tex" "students.org" "../" "./")
+
+ ("/Users/lifurong/dev/demo/src/main/demo/" (23889 42570 823298 236000) "server_components/" "server_main.clj" "model/" "client.cljs" "development_preload.cljs" "ui/" "../" "./")
+
+ ("/Users/lifurong/dev/demo/src/main/" (23889 42570 816265 700000) "config/" "demo/" "../" "./")
+
+ ("/Users/lifurong/dev/demo/src/" (23889 42570 824545 475000) "main/" "dev/" "workspaces/" "test/" "../" "./")
+
+ ("/Users/lifurong/dev/demo/" (23889 42570 812742 755000) "src/" "karma.conf.js" "package.json" ".gitignore" "README.adoc" "resources/" "Makefile" "deps.edn" "shadow-cljs.edn" "tests.edn" "project.clj" "../" "./")
+
+ ("/Users/lifurong/teach/python/turtlegame/" (23889 9726 305895 719000) "sun_flower.py" "2.py" "mouse_cat.py" "../" "./")
+
+ ("/Users/lifurong/jq/curriculum/scratch/" (23889 4431 494435 460000) "pearls.org" "scratch-mid/" "scratch-high/" "resources/" "patterns/" ".DS_Store" "../" "./")
+
+ ("/Users/lifurong/jq/" (23885 14503 637985 547000) "素材/" "裂变模板.png" "1556291073561_217880.jpg" "安平红心蕾微信二维码.jpeg" "李富荣身份证反面.jpeg" "毛晋南NOC 二等.png" "Apress_Practical.Common.Lisp_1.edition_9781590592397/" "scratch上课作品/" "内容研发调研.xmind" "resources/" "李富荣微信二维码.jpeg" "curriculum/" "李富荣身份证正面.jpeg" ".DS_Store" "2019cybc/" "沈冠希.jpeg" "python素材/" "../" "./")
+
+ ("/Users/lifurong/jq/curriculum/" (23880 53420 217062 621000) ".git/" "cpp/" ".gitignore" "scratch/" "README.md" ".DS_Store" "../" "./")
+
+ ("/Users/lifurong/jq/curriculum/cpp/" (23879 35011 657917 23000) "cpp1.org" "cpp2.org" "cpp3.org" "../" "./")
+
+ ("/Users/lifurong/teach/noi/" (23876 9060 387152 867000) "recursive_length.cpp" "session1.cpp" "l2.cpp" "shudo_old.cpp" "daoshu.dSYM/" "score.txt" "card.cpp" ".vscode/" "file_3.cpp" "cpp/" "bfs/" "scores.cpp" "shudu" "a.out" "1319.cpp" "shudu.dSYM/" "stars02.cpp" "n" "wendu.cpp" "max_in_arr.cpp" "zhuxingsuan.cpp" "ctoi.cpp" "recursive_count_down.cpp" "daoshu.cpp" "gedebahe.cpp" "qiaomiaotianshu.cpp" "weiqi_biancheng.cpp" "1001.cpp" "algorith/" "lianfen/" "daoshu" "arr[i]" "shudu.cpp" "vijos_1848.cpp" "a[i][j]" "stars.cpp" "../" "./")
+
+ ("/Users/lifurong/teach/python/pygame/" (23882 26946 230656 936000) "konglong.py" "konglong.png" "../" "./")
+
+ ("/Users/lifurong/teach/python/" (23882 26489 858321 723000) "class_1_calculator.py" "olympic_circle2.py" "3times.py" "guessMyName.py" "pop.py" "loopquiz.py" "blue.py" ".vscode/" "turtle_complicated.py" "5huan2.py" "olympic_circle3.py" "plane/" "traffic.py" "random_bubble.py" "greetings.py" "pygame/" "dinossor.py" "lesson.13.py" "weather.py" "bubbles_list.py" "factorOf3.py" "rabbits.py" "wordcount.py" "hobies.py" "turtlegame/" "hjaesfhcj.py" "monday class/" "check.py" "jielong.py" ".DS_Store" "3quotes.py" "olympic_circle_1.py" "max.py" "lesson9.py" "peppapig.py" "lesson11.py" "hobbies_count.py" "../" "./")
+
+ ("/Users/lifurong/teach/" (23881 36726 91960 704000) "c/" ".vscode/" "cpp/" "美致编程项目合作书.doc" "meizhi-py-jike/" "xinxin/" "c++试听课评测.xlsx" "python/" "noi/" "xinxin.code-workspace" ".DS_Store" "../" "./")
+
+ ("/Users/lifurong/jq/curriculum/scratch-mid/" (23875 57075 194382 270000) "high_scratch2.org" "../" "./")
+
+ ("/Users/lifurong/Documents/鲸奇/curriculum/" (23875 8422 960775 372000) ".git/" "README.md" "cpp2.org" "../" "./")
+
+ ("/Users/lifurong/Documents/鲸奇/" (23875 6362 68950 505000) "发芽.jpg" "吴家辉报名凭证.pdf" "少年派之创意编程体验活动照片/" "qrcode_for_gh_6824021eaf82_258.jpg" "智慧养老社区.xmind" "跳一跳.jpg" "裂变模板.png" "朱禹洆.jpeg" "吴家辉赠课凭证.pdf" "1556291073561_217880.jpg" "多边形.sb3" "屏幕快照 2019-07-01 上午11.18.54.png" "安平红心蕾微信二维码.jpeg" "第五届全国青少年创意编程与智能设计大赛报名信息.xlsx" "李富荣身份证反面.jpeg" "002_猫捉老鼠.sb2" "编程课刊例价.pdf" "2019暑期班.xmind" "钱嘉盛.jpeg" "李馨宜NOC证书.pdf" "学员头像/" "林慕远赠课报名凭证.pdf" "手环终级版 (2)（孙睿、）.sb3" "circle-the-blocks.png" "pic2.png" "pic3.png" "思考中.jpg" "毛晋南NOC 二等.png" "科技街入驻申请.docx" "美术指导时间.pdf" "Apress_Practical.Common.Lisp_1.edition_9781590592397/" "pic1.png" "software/" "scratch上课作品/" "内容研发调研.xmind" "第五届全国青少年创意编程与智能设计大赛.doc" "汉诺塔.jpeg" "2019比赛/" "resources/" "课程协议条款.docx.docx" "for作业.docx" "c++梦之队作业/" "美致张老师微信二维码.jpeg" "李富荣微信二维码.jpeg" "curriculum/" "李富荣身份证正面.jpeg" "IMG_20190225_161255.jpg" "战略思考2019-5.xmind" "暑假体验课.pdf" "合作协议书-红心蕾(1).docx" "弧.sb3" "1556291071807_217866.jpg" ".DS_Store" "报名凭证/" "沈冠希.jpeg" "常教基〔2018〕14号附件/" "python素材/" "鲸奇合作协议（知乎乎）.docx" "张艺轩.jpeg" "NOC创意编程_参赛证.pdf" "../" "./")
+
+ ("/Users/lifurong/Documents/" (23851 55159 860008 378000) "ff 2017-09-01 19-25-18/" "weifang/" "闭关教育小程序.oplx/" "明城墙.jpg" "weifang.png" "change.py" "Axure/" "小程序第一期工作安排.pdf" "Untitled.py" "上上签.py" "李富荣的微信二维码.jpg" "foo.py" "达特茅斯会议.jpg" "宽带帐号.jpg" "李富荣身份证正面.png" "李富荣身份证反面.png" "智能工地管理.docx" "李富荣身份证反面.jpg" "辣椒酱/" "西班牙和葡萄牙.jpg" "1-8周会.numbers" "p200.numbers" "项目成员情况表.pages" "浙江非凡学校v2.pdf" "每日经典背诵.oplx/" "恽芝蕾正面.jpg" "恽芝蕾反面.jpg" "纳川三证合一执照代码证.jpg" "编程.pages" "编程课/" "手持身份证正面李富荣.jpeg" "试听课.ppt" "我垫付的红包.numbers" "福慧.sketch" "Zoom/" "李富荣简历.pages" "导师团宣传材料.pptx" "1.sb2" "每日一句.mp3" "1.py" "前端项目安排.numbers" "10-6正念静修-讲授.jpeg" "labi.py" "未命名.numbers" "lesson0.py" "会说话的硬币.mp4" "temp.py" "李富荣简历.pdf" "太仓课程介绍.docx" "鲸奇财务预算.pdf" "口碑/" "纳川代码证.jpg" "Untitled-1" ".mockingbot/" "朋友圈广告.numbers" "试用期转正申请审批表.numbers" "10-6正念静修-带领2.jpeg" "李富荣试用期转正申请审批表.xlsx" "千佛寺.ai" "非凡.numbers" "未命名.pdf" "哈利波特闯关.sketch" "我的计划.numbers" "Axure User Data/" "非凡交接.pages" "正智的简历.docx" "Scratch Projects/" "读书笔记/" "面膜.oplx/" "游戏币需求背景.docx" "9-15半日静修.pdf" "千佛寺8_16.oplx/" "浙江非凡学校.pdf" "~$作业平台计划.pptx" "乐享创升级计划.docx" "xinxin/" "__pycache__/" "新生报名估算.numbers" "李富荣备案照片.png" "default.profraw" "第一义谛公众号.sketch" "全球招募非凡教师.pdf" "pics/" "开放平台调研.docx" ".Cloud/" "下载.png" "时光2019之一月启程（龙城小学）.pptx" "作业平台计划.pptx" "正念分享.key" "images 2/" "非凡.rp" "明城墙2.jpg" "个人计划.oplx/" "前端-陈磊-12月OKR.numbers" "workspace/" "factorOf3.py" "deng.py" "每日经典诵读UI需求.docx" "鲸奇合作协议——419review.docx" "纳川营业执照.jpg" "seymour.jpg" "qie.py" "lesson3.py" "鲸奇/" "满目山河空念远.docx" "李富荣——正智.pdf" "人群分析.sketch" "原始人.jpeg" "circle.py" "财务预测.xlsx" "作业平台计划.pdf" "正念坊计划.pdf" "cpp.png" ".localized" "circles.py" "星际探险——试听课.sb2" "10-6-正念静修-合影.jpeg" "禅修.pages" "前端-陈磊-12月OKR.xlsx" "badjs.param" "契型文字.jpg" "非凡研发李富荣交接.pdf" "简单数学.numbers" "1.doc" "项目成员情况表.docx" "福慧第一版计划.oplx/" "kids coding.png" "未命名.oplx/" ".DS_Store" "项目梳理.numbers" "2018下半年计划.oplx/" "第一期正念介绍活动结果 - Tower副本.pdf" "20180821正智.docx" "v2设计.sketch" "李富荣身份证签字正面.jpg" "1.pic.jpg" "MBCT种子师资证书.jpeg" "图片1.png" "李富荣身份证签字反面.jpg" "鲸奇合作协议（知乎乎）.docx" "苏沪杰软件开发合同.docx" "图片2.png" "中秋/" "pubg_first_glance.py" "10-6正念静修-打坐.jpeg" "福慧第一版计划.pdf" "didi.png" "新生报名估算.xlsx" "千佛寺/" "../" "./")
+
+ ("/Users/lifurong/study/" (23875 6362 105884 275000) "emacs" "../" "./")
+
+ ("/Users/lifurong/dev/cpp/" (23874 18378 112022 282000) "a.out" "snake.cpp" "foo.cpp" "../" "./")
+
+ ("/Users/lifurong/.emacs.d/games/" (23874 16089 664783 176000) "bubbles-default-2-10-10-scores" "snake-scores" "../" "./")
+
+ ("/Users/lifurong/teach/c/" (23873 26531 934211 207000) "ball.cpp" "fly.cpp" "area.c" "=" "magicpingpong.cpp" "orderinsert.c" "simplecalc.c" "lamps.cpp" "boolexample.cpp" "jiecheng.c" "whiledemo.cpp" "add.cpp" ".vscode/" "intSort.cpp" "simpledemo" "alamp.cpp" "guessage.c" "xinxinstory.cpp" "hat.cpp" "hat" "advancedhat.dSYM/" "stringSort.cpp" "huiwen.c" "strlen.cpp" "lesson5.c" "dianming.c" "lesson.cpp" "road.c" "luogu1.cpp" "lamps2" "advancedhat" "triangle.cpp" "pinpang.cpp" "scores.cpp" "chain.c" "fenyuanmao.cpp" "simpledemo.cpp" "whiledemo" "a.out" "vi1449.cpp" "round_table.cpp" "avrg" "sodu.cpp" "alamp" "max" "qian.c" "advancedhat.cpp" "passwordverification.cpp" "pingpong" "strct.c" "strlen.c" "xinxinstory.dSYM/" "pingpong.cpp" "triangle" "scores" "strcpytest.c" "height.cpp" "sleepdemo" "fangcheng.cpp" "road" "hats.cpp" "height" "password.cpp" "magic.cpp" "zoo1.cpp" "magic" "migong.c" "times3.c" "sleepdemo.cpp" "sara_lesson0.cpp" "nails" "BMI.C" "xinxinstory" "lamps2.cpp" "foo.cpp" "jinzhi.cpp" "shudu.cpp" "func.cpp" "nails.cpp" "avrg.cpp" "../" "./")
+
+ ("/Users/lifurong/dev/clj/study/src/study/" (23873 26108 294599 408000) "4clj.clj" "gcd.clj" "alice.clj" "upper.clj" "core.clj" "flatten.clj" "foo.clj" "../" "./")
+
+ ("/Users/lifurong/dev/clj/study/" (23871 23087 58003 38000) "src/" "doc/" ".gitignore" "README.md" "resources/" ".hgignore" "target/" "CHANGELOG.md" "test/" "LICENSE" "project.clj" "../" "./")
+
+ ("/Users/" (23518 40311 363212 555000) "Guest/" "lifurong/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/lifurong/dev/clj/" (23868 45130 706987 237000) "demo.clj" ".vscode/" "jiecheng.clj" "demo-simple.clj" "sqrt.clj" "fast-expt.clj" "1.11.clj" "study/" "../" "./")
+
+ ("/Users/lifurong/dev/clj/study/src/" (23809 29952 64065 306000) "study/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
